@@ -1,6 +1,6 @@
 Hello, I am an amateur programmer trying to learn software, game and web development.
-I like to create things and experiment with them
-Yeah, that's about it
+I like to create things and experiment with them.
+Yeah, that's about it haha, stay safe :)
 
 <!---
 ZyroIsBored/ZyroIsBored is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
