@@ -1,4 +1,4 @@
-Hello, I am an amateur programmer trying to learn software, game and web development.
+Hello, I am an amateur programmer trying to learn web development.
 I like to create things and experiment with them.
 Yeah, that's about it haha, stay safe :)
 
